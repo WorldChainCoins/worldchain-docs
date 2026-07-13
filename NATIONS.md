@@ -1,5 +1,5 @@
 # World Chain Coins Nations
-
+ 
 World Chain Coins connects individual nation coins, communities, cultures, identities and digital worlds through the main ecosystem token, **$WORLDCHAIN**.
 
 Each addition to the ecosystem has its own character, visual identity, story, community and place inside one continuously expanding global collection.
