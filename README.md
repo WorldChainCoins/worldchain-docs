@@ -1,3 +1,5 @@
+![World Chain Coins Banner](WORLD%20CHAIN%20BANNER.gif)
+
 # World Chain Coins
 
 **One World. One Chain. Connected Together.**
